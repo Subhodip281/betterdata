@@ -49,6 +49,7 @@ Used Tech-stack:
   <img alt="Slide 7" src="./Screenshots/5.png" />
 </div>
 <div align="center">
-  <h2 align ="left"> Details about the current dataset </h2>
+  <h2 align ="left"> Slide 7  </h2> 
+  <h5> Details about the current dataset</h5>
   <img alt="Slide 8" src="./Screenshots/6.png" />
 </div>
