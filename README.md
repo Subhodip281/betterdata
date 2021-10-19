@@ -9,8 +9,7 @@ Used Tech-stack:
   <li><b>Css</b></li>
   <li><b>Styled-components</b></li>
   </ul>
-  <br>
-  <br>
+  
 <div align="center">
   <h2 align ="left"> Slide 1 </h2>
   <img alt="Slide 1" src="./Screenshots/1.png" />
