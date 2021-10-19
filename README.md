@@ -3,10 +3,14 @@ This task tests for data processing of a csv file in the frontend including rest
 <h2 align ="center">
 Used Tech-stack:
 </h2>
-  <b>ReactJs,</b> <br>
-  <b>React-bootstrap,</b><br>
-  <b>Css,</b><br>
-  <b>styled-components</b><br>
+<ul>
+  <li><b>ReactJs</b> </li>
+  <li><b>React-bootstrap</b></li>
+  <li><b>Css</b></li>
+  <li><b>Styled-components</b></li>
+  </ul>
+  <br>
+  <br>
 <div align="center">
   <h2 align ="left"> Slide 1 </h2>
   <img alt="Slide 1" src="./Screenshots/1.png" />
